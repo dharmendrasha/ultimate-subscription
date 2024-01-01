@@ -3,4 +3,4 @@
 To manage your subscription purchases.
 
 # concept
-<img alt="ultimate-subscription" src="highlevel.drawio.svg"/>
+<img alt="ultimate-subscription" src="concept.webp"/>
